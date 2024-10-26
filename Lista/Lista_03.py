@@ -1,0 +1,5 @@
+
+
+ListaC = []
+ListaV = []
+Responta = ''
